@@ -1,2 +1,6 @@
 Bonjour,
+
+
+
+
 je suis dans les locaux de GoMycode nous faisons de la pratique sur Git, pour l'instant c'est un peu compliqué mais je vais y arriver.
